@@ -102,7 +102,8 @@ body.dark .services-section__title,
 body.dark .info-section__title,
 body.dark .card__title,
 body.dark .about-section__title,
-body.dark .about-section__text {
+body.dark .about-section__text,
+body.dark .gallerry-section__title{
     color: var(--color-white);
 }
 
